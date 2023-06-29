@@ -1,0 +1,15 @@
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\bin\Debug\net6.0\DFAstateMachineLanguageTheory.exe
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\bin\Debug\net6.0\DFAstateMachineLanguageTheory.deps.json
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\bin\Debug\net6.0\DFAstateMachineLanguageTheory.runtimeconfig.json
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\bin\Debug\net6.0\DFAstateMachineLanguageTheory.dll
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\bin\Debug\net6.0\ref\DFAstateMachineLanguageTheory.dll
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\bin\Debug\net6.0\DFAstateMachineLanguageTheory.pdb
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.csproj.AssemblyReference.cache
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.AssemblyInfoInputs.cache
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.AssemblyInfo.cs
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.csproj.CoreCompileInputs.cache
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.dll
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\ref\DFAstateMachineLanguageTheory.dll
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.pdb
+C:\Users\TUF laptop\Desktop\DFAstateMachineLanguageTheory\DFAstateMachineLanguageTheory\obj\Debug\net6.0\DFAstateMachineLanguageTheory.genruntimeconfig.cache
